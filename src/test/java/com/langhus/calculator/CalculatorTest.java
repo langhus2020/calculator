@@ -1,4 +1,4 @@
-import com.langhus.calculator;
+import com.langhus.calculator.*;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
