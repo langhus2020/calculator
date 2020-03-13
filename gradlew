@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+#sourceSets.main.java.srcDirs = ['src']
+#mainClassName = "CalculatorController"
+
 #
 # Copyright 2015 the original author or authors.
 #
