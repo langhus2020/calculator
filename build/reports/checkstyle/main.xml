@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.27">
+<file name="/home/jenkins/calculator/src/main/java/com/langhus/calculator/Calculator.java">
+</file>
+<file name="/home/jenkins/calculator/src/main/java/com/langhus/calculator/CalculatorController.java">
+</file>
+<file name="/home/jenkins/calculator/src/test/java/com/langhus/calculator/CalculatorTest.java">
+</file>
+</checkstyle>
